@@ -18,6 +18,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/viraj-mhatre-163b8725a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="30" alt="LinkedIn"/>
   </a>
 </p>
