@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🚀 I’m currently working on **Bus Reservation System**
+- 🚀 I’m currently working on **AI Project Jarvis**
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Java | Spring Boot | React | Angular**
 - 📫 How to reach me: **virajmhatre74@gmail.com**
